@@ -1,0 +1,5 @@
+deap==1.4.*
+numpy==1.25.2
+scipy==1.13.*
+matplotlib==3.9.*
+jupyter==1.0.*
